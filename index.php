@@ -17,3 +17,7 @@
 
 </body>
 </html>
+
+<?php
+
+echo "職業実践2 - 練習用App";

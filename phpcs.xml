@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- ルールセット名 -->
+<ruleset name="PSR2">
+    <!-- 説明 -->
+    <description>PSR2</description>
+    <!-- 参照するルール( `PSR2` ) -->
+    <rule ref="PSR2" />
+
+    <!-- 拡張子を指定する(.php) -->
+    <arg name="extensions" value="php" />
+    <!-- 結果出力に色を付ける -->
+    <arg name="colors" />
+    <!-- 進捗を表示する(-p) -->
+    <!-- エラー情報に、違反したルールを表示する(-s) -->
+    <arg value="ps" />
+
+    <exclude-pattern>/vendor/</exclude-pattern>
+</ruleset>
