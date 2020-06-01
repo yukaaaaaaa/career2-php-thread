@@ -6,11 +6,11 @@
 
 <h2>投稿フォーム</h2>
 
-<form method="POST" action="<?php print($_SERVER['PHP_SELF']) ?>">
-    <input type="text" name="personal_name" placeholder="名前"><br><br>
-    <textarea name="contents" rows="8" cols="40" placeholder="内容">
+<form method="POST">
+    <input type="text" name="personal_name" placeholder="名前" required><br><br>
+    <textarea name="contents" rows="8" cols="40" placeholder="内容" required>
 </textarea><br><br>
-    <input type="submit" name="btn1" value="投稿する">
+    <input type="submit" name="btn" value="投稿する">
 </form>
 
 <h2>スレッド</h2>
