@@ -8,3 +8,7 @@
 
 - [PHP入門](https://www.javadrive.jp/php/)
 - [PHPマニュアル](https://www.php.net/manual/ja/index.php)
+
+---
+
+[職業実践Ⅱ(PHP)](https://github.com/qst-exe/carrier2-php)
