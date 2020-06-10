@@ -44,6 +44,7 @@ function writeData() {
     $data = $data."<p>".$contents."</p>\n";
 
     $fp = fopen(THREAD_FILE, 'a');
+    
 
     if ($fp){
         if (flock($fp, LOCK_EX)){
