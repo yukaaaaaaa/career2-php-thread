@@ -1,6 +1,9 @@
 <html>
 
-<head><title>掲示板App</title></head>
+<head>
+<link>
+<title>掲示板App</title>
+</head>
 
 <body>
 
