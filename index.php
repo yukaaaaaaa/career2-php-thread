@@ -1,11 +1,12 @@
 <html>
 
 <head>
-<link>
+<link rel="stylesheet" type="text/css" href="index.css">
 <title>掲示板App</title>
 </head>
 
 <body>
+
 
 <h1>掲示板</h1>
 
